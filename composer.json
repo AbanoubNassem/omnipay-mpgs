@@ -16,10 +16,10 @@
         "psr-4": { "Omnipay\\Mpgs\\" : "src/" }
     },
     "require": {
-        "omnipay/common": "^3"
+        "omnipay/common": "~2.0"
     },
     "require-dev": {
-        "omnipay/tests": "^3"
+        "omnipay/tests": "~2.0"
     },
     "prefer-stable": true
 }
